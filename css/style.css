@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'NotoSansLao-VariableFont_wdth,wght';
+    src: url(../fonts/NotoSansLao-VariableFont_wdth,wght.ttf);
+}
+body{
+    font-family: 'NotoSansLao-VariableFont_wdth,wght';
+}
+
+.dropdown-menu-end{
+}
+
+.dropdown:hover>.dropdown-menu{
+    display: block;
+}
+.nav-link{
+
+}
